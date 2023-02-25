@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+
+}
+.signup-nav{
+    float:right;
+  }
+  
+nav {
+    background-color: #333;
+    height: 80px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+    border:2px solid orange ;
+    margin:12px;
+    
+    font-size:30px;
+    border-radius: 7px;
+  }
+  
+  li a:hover {
+    background-color: orange;
+    border:2px solid #333;
+  }
+  .thumbnail{
+    margin-left:4%;
+    box-sizing: border-box;
+    margin-top: 7px;
+  }
+  
